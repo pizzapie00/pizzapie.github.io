@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(226, 178, 162);
+    font-family: cursive;
+    font-size: large;
+    color: rgb(94, 57, 36);
+    margin: 50px;
+    padding: 30px;
+    text-align: center;
+    border:25px solid rgba(248, 246, 244, 0.547);
+}
+
+img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%
+}
+
+ol{
+    list-style-position: inside;
+    text-align: left;
+}
+
+ul{
+    list-style-position:inside;
+    text-align: justify;
+}
+
+.tableau{
+    width: 1000px;
+      margin-left: auto;
+      margin-right: auto;
+}
